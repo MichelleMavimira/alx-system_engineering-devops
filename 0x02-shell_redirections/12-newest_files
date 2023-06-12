@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t1 type head
+ls -t1 | head
